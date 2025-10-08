@@ -1,0 +1,21 @@
+
+Meeting Notes: Discussion about SalesContract Contract
+Date: October 07, 2025
+
+Attendees:
+- Sarah Johnson (Legal)
+- Michael Chen (Procurement)
+- David Rodriguez (Procurement)
+- Jennifer Smith (Stakeholder)
+
+Notes:
+1. Reviewed the current SalesContract contract with ABC Corp
+2. Concerns about section 3.4 regarding liability coverage - needs revision
+3. The renewal date seems to be approaching, but we should prepare documentation
+4. ABC Corp has changed their address recently
+5. Action items:
+   a. David to follow up on pricing discrepancies
+   b. Sarah to review legal implications of clause 7.2
+   c. Jennifer to confirm scope of work
+
+Next steps: Schedule follow-up meeting in two weeks to finalize the renewal terms
